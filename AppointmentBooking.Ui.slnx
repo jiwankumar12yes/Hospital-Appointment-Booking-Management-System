@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AppointmentBooking.BAL/AppointmentBooking.BAL.csproj" />
+  <Project Path="AppointmentBooking.DAL/AppointmentBooking.DAL.csproj" />
+  <Project Path="AppointmentBooking.Shared/AppointmentBooking.Shared.csproj" />
+  <Project Path="AppointmentBooking.Ui/AppointmentBooking.Ui.csproj" />
+  <Project Path="AppointmentBooking.Utility/AppointmentBooking.Utility.csproj" />
+</Solution>

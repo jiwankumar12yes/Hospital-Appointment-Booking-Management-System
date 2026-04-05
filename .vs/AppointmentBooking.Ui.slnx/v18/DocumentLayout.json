@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Task\\video-editor\\Hospital-Appointment-Booking-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7AFA0F-4789-FC6D-ABBE-704DBB3EDE00}|AppointmentBooking.Ui\\AppointmentBooking.Ui.csproj|c:\\users\\hp\\desktop\\task\\video-editor\\hospital-appointment-booking-management-system\\appointmentbooking.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC7AFA0F-4789-FC6D-ABBE-704DBB3EDE00}|AppointmentBooking.Ui\\AppointmentBooking.Ui.csproj|solutionrelative:appointmentbooking.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task\\video-editor\\Hospital-Appointment-Booking-Management-System\\AppointmentBooking.Ui\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentBooking.Ui\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Task\\video-editor\\Hospital-Appointment-Booking-Management-System\\AppointmentBooking.Ui\\appsettings.json",
+              "RelativeToolTip": "AppointmentBooking.Ui\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T11:31:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
